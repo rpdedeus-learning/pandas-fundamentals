@@ -1,0 +1,11 @@
+{
+  "first_name": "Roberto",
+  "last_name": "DeDeus",
+  "age": 35,
+  "hobbies": ["cycling", "motorcycling", "hiking", "coding"],
+  "profession":
+    {
+        "title": "Technical Instructor",
+        "employer": "Zip Code Wilmington"
+    }
+}
