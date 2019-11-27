@@ -6,3 +6,5 @@ Follow along with [Pandas Fundamentals](https://app.pluralsight.com/library/cour
 * Exploring pandas data input capabilities
 * Indexing and filtering
 * Operations on groups
+* Outputting data
+* Plotting
